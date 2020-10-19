@@ -1,14 +1,15 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-body {
-  color: #FFF;
-  background: #ebf2f5;
+body{
+    color: #FFF;
+    background: #ebf2f5;
 }
 
 body, input, button, textarea {
-  family: 600 18px Nunito, sans-serif;
+    font-family: Nunito, sans-serif;
+    font: 600, 18px;
 }
